@@ -28,3 +28,4 @@ C:\Users\csten\5 semester\AZ-400\myWebApp\obj\Debug\net8.0\refint\myWebApp.dll
 C:\Users\csten\5 semester\AZ-400\myWebApp\obj\Debug\net8.0\myWebApp.pdb
 C:\Users\csten\5 semester\AZ-400\myWebApp\obj\Debug\net8.0\myWebApp.genruntimeconfig.cache
 C:\Users\csten\5 semester\AZ-400\myWebApp\obj\Debug\net8.0\ref\myWebApp.dll
+C:\Users\csten\5 semester\AZ-400\myWebApp\obj\Debug\net8.0\myWebApp.sourcelink.json
